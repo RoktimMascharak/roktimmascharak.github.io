@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Log Canonical Minimal Model Program for corank one foliations on Threefolds"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
