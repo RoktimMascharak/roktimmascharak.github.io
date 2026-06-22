@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<p><strong>Debug:</strong> Total publications = {{ site.publications | size }}</p>
-{% for post in site.publications %}
-  <p> {{ post.title }} | {{ post.date }} | {{ post.category }}</p>
-{% endfor %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
