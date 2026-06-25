@@ -1,4 +1,3 @@
-
 ---
 title: "Log Canonical Minimal Model Program for corank one foliations on Threefolds"
 collection: publications
@@ -9,5 +8,3 @@ venue: "ArXiv Preprints"
 paperurl: "https://arxiv.org/abs/2410.05178"
 citation: "Chaudhuri, P., & Mascharak, R. (2024). 'Log Canonical Minimal Model Program for corank one foliations on Threefolds.' arXiv preprint arXiv:2410.05178."
 ---
-
-
